@@ -1,5 +1,7 @@
 # Practica-3 WIFI Y BLUETOOTH
 
+Primer de tot dir que hi ha una altra branca amb la part del Bluetooth.
+
 En aquesta pràctica aprendrem el funcionament del WIFI i del Bluetooth, és per això que realitzarem una pràctica on generarem una web utilitzant le ESP32 i una 
 comunicació sèrie amb una aplicació d'un mòbil amb bluetooth.
 
